@@ -3,7 +3,7 @@
 I am Jalaj Agrawal an undergraduate at NITK Surathkal. Formally I am majoring in Metallurgy and Materials Sciences but I spend majority of my time reading product blogs and building things. 
 
 >Imagine two worlds, one with you and one without you. What's the difference between the two worlds? Maximize the difference. That's the meaning of your life.  
->>World of Difference
+>-World of Difference
 
 <!--
 **jalajagrwl/jalajagrwl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
